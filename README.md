@@ -2,7 +2,7 @@
 
 ... please have a look at [:arrow_right: https://github.com/cs7org/veins3d](https://github.com/cs7org/veins3d).
 
-**Veins3D** is an extension of the open source vehicular network simulation framework *Veins* for the support of three-dimensional scenarios.
+**Veins 3D** is an extension of the open source vehicular network simulation framework *Veins* for the support of three-dimensional scenarios.
 <!--
 **alexbrummer/alexbrummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
